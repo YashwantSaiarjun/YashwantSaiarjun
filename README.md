@@ -8,7 +8,7 @@
 
 - I'm pursuing my bachelors in CSE from [Sathyabama Institute of Science and Technology](https://www.sathyabama.ac.in/)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱J'apprends actuellement **Data Science et Machine Learning**
 
 - 💬 Ask me about **anything.... Sure I hope, I can answer yours :)**
 - **Aimer ml et créer des projets ... explorer plus ..**
