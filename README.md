@@ -11,7 +11,7 @@
 - 🌱J'apprends actuellement **Data Science et Machine Learning**
 
 - 💬 Ask me about **anything.... Sure I hope, I can answer yours :)**
-- **Aimer ml et créer des projets ... explorer plus ..**
+- **Aimer ml et créer des projets en explorant plus...**
 
 
 - 📫 How to reach me **yashwant091827@gmail.com**
