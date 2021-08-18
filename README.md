@@ -10,16 +10,9 @@
 
 
 
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/yashwantsai_918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashwantsai_918" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashwant saiarjun.s.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwant saiarjun.s.v" height="30" width="40" /></a>
-<a href="https://instagram.com/_thearjunsai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thearjunsai_" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools I know</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a  href="https://jupyter.org/" target="_blank"> <img src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg" alt="jupyternotebook" width="40" height="40"/> </p>
-
+  <h1>Tout est privatisé</h1>
+</p>  
 
 
 
