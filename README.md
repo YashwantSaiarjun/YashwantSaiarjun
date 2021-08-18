@@ -8,15 +8,7 @@
 
 <p align="right"> <a href="https://twitter.com/yashwantsai_918" target="blank"><img src="https://img.shields.io/twitter/follow/yashwantsai_918?logo=twitter&style=for-the-badge" alt="yashwantsai_918" /></a> </p>
 
-- I'm pursuing my bachelors in CSE from [Sathyabama Institute of Science and Technology](https://www.sathyabama.ac.in/)
 
-- 🌱J'apprends actuellement **Data Science et Machine Learning**
-
-- 💬 Ask me about **anything.... Sure I hope, I can answer yours :)**
-- **Aimer ml et créer des projets en explorant plus...**
-
-
-- 📫 How to reach me **yashwant091827@gmail.com**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
