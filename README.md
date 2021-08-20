@@ -18,17 +18,22 @@
     
  
     
- ## Languages and tools mastered
+ ## Languages and tools mastered :
 <p align="left"> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+    <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
+   
+
 </p>  
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/chdsand71202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_71202" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/eswar-chansdd-868b5617b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EswarChand" height="30" width="40" /></a>
-<a href="https://www.instagram.com/csdhanduu_71202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanduu_71202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashwant-saiarjun-s-v-478794197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yashwant Saiarjun" height="30" width="40" /></a>
+<a href="https://twitter.com/yashwantsai_918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_71202" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_thearjunsai_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thrarjunsai_" height="30" width="40" /></a>
 </p> 
 
 
