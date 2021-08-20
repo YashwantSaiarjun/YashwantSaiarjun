@@ -12,7 +12,7 @@
 <p>
   <h3>🙋‍♂️ ABOUT ME:<h3>
   <h3>I'm Yashwant Sairjun<h3>
-  <h3>Persuining B.E Computer Science at <a href="https://www.sathyabama.ac.in/">Sathyabama University</a>
+  <h3>Persuing B.E Computer Science at <a href="https://www.sathyabama.ac.in/">Sathyabama University</a>
   <h3>Curious and crazy about Data Science, Machine Learning and Artificial Intelligence<h3>  
 </p><br>
     
