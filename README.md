@@ -24,6 +24,11 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 </p>  
 
-
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/chand71202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_71202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eswar-chand-868b5617b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EswarChand" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chanduu_71202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanduu_71202" height="30" width="40" /></a>
+</p> 
 
 
