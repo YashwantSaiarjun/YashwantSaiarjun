@@ -24,7 +24,7 @@
  ## Languages and tools mastered :
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-    <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></a>
+    <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/master/assets/main-logo.svg"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
