@@ -16,8 +16,8 @@
   <h3>Curious and crazy about Data Science, Machine Learning and Artificial Intelligence<h3>  
 </p><br>
     
- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashwantSaiarjun&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="YashwantSaiarjun">
+ 
+  <im src="https://github-readme-stats.vercel.app/api?username=YashwantSaiarjun&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="YashwantSaiarjun">
 </p>   
  
     
