@@ -5,7 +5,7 @@
   <h3 align="center">Un programmeur curieux</h3>
   <p align="right"> <a href="https://twitter.com/yashwantsai_918" target="blank"><img src="https://img.shields.io/twitter/follow/yashwantsai_918?logo=twitter&style=for-the-badge" alt="yashwantsai_918" /></a> </p>
 <p>
-  <img src="https://www.fearlessmotivation.com/wp-content/uploads/2017/06/elon-quotes-fb.jpg" alt="30 Noteworthy Elon Musk Quotes To Change Your Life Forever" jsname="HiaYvf"        jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 1000px; height: 500px; margin: 0px;">  
+  <img src="https://www.fearlessmotivation.com/wp-content/uploads/2017/06/elon-quotes-fb.jpg" alt="30 Noteworthy Elon Musk Quotes To Change Your Life Forever" jsname="HiaYvf"        jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 1000px; height: 480px; margin: 0px;">  
 </p>
 <br>
 
