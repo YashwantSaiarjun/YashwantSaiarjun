@@ -29,6 +29,7 @@
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
    <img src="https://image.flaticon.com/icons/png/512/2103/2103694.png" alt="R" width="40" height="40"/>&nbsp;
+   <img src="https://www.appschopper.com/assets/service-images/UIUX-Design.svg" alt="ui/ux" width="40" height="40"/>
 
 </p>  
 
