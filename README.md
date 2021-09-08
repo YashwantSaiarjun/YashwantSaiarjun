@@ -27,6 +27,7 @@
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="py"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png"/>
     <img src="https://image.flaticon.com/icons/png/512/2103/2103694.png" alt="R" width="40" height="40"/>&nbsp;
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <img src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/master/assets/main-logo.svg" alt="jn"/>    
