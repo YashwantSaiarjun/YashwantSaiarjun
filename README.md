@@ -11,6 +11,7 @@
   <h3>I'm Yashwant Saiarjun<h3>
   <h3>Persuing B.E Computer Science at <a href="https://www.sathyabama.ac.in/">Sathyabama University</a>
   <h3>Full Stack developer<h3>
+  <h3>Data Analasys and data science<h3> 
   <h3>Data Science Aspirant<h3>  
   <h3>Curious and crazy about Technologies<h3>  
 </p><br>
