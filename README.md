@@ -1,7 +1,12 @@
 <h3 align="center">ABOUT:</h3>
-
-### A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+ years. Hailed from a programming background in my school. Experience in developing projects from the tools and languages I learnt. Surfing and exploring through Data Science and machine learning models and devloping projects.
-### Self taught UI/UX designer with working experiences and a good knowledge of using Figma. Curious and enthusiastic to create and develop cool UI/UX stuffs.
+<pre>
+<h3>A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+
+years. Hailed from a programming background in my school. Experience in developing projects from 
+the tools and languages I learnt.< Surfing and exploring through Data Science and machine learning
+models and devloping projects.
+Self taught UI/UX designer with working experiences and a good knowledge of using Figma. Curious
+and enthusiastic to create and develop cool UI/UX stuffs.</h3>
+</pre>
 <hr>
 <h3 align="center">Communities and Clubs:</h3>
 <pre>
@@ -12,6 +17,25 @@
 </div>
 </pre>
 <hr>
+
+
+<h3 align="center">Notable Projects undertaken by me:</h3>
+<div>
+<pre>
+<ul>
+<li><a href=" ">Income Classifier System</a></li>
+<li><a href=" ">Digital Hotel Menu using Html and CSS</a></li>
+<li><a href=" ">Diabetes prediction system</a></li>
+<li><a href=" ">ATM system</a></li>
+<li><a href=" ">UI/UX for mental health chatbot</a></li>
+<li><a href=" ">User Login Page</a></li>
+<li><a href=" ">Analysis of growth of Indian startups</a></li>
+</ul>
+</pre>
+ <hr>
+
+
+
 
 
 
