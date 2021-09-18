@@ -13,7 +13,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <div align="center">
 <h3>Student Co-ordinator @ <a href=" ">HackerEarth</a> SIST</h3>
 <h3>Rajyapuruskar Scout - <a href=" ">Bharat Scouts and Guides</a></h3>
-<h3>Member at <a href=" ">Cureya</a> community</h3>
+<h3>Member @ <a href=" ">Cureya</a> community</h3>
 </div>
 </pre>
 <hr>
@@ -33,6 +33,20 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 </ul>
 </pre>
  <hr>
+ 
+<pre>
+<h4>Main Works:</h4>
+<ul>
+<li>Python</li>
+<li>Java</li>
+<li>Data Science</li>
+<li>Machine Learning</li>
+<li>UI/UX</li>
+<li>Html and CSS</li>
+<li>C++</li>
+</ul>
+</pre>
+
 
 
 
