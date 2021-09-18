@@ -1,21 +1,7 @@
-<p>
-  <h1 align="center">Wassup Everybody ! Itz me Yashwant Saiarjun</h1>
-</p>
-<p>
-  <h3 align="center">Un programmeur curieux</h3>
-<p>
-<br>
-<p>
-<h2>ABOUT :</h2>
-  <p><b>A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+ years.&nbsp Hailed from a programming background in my school.&nbsp Experience in developing projects from the tools and languages I learnt.</b></p>
-  <p><b> Surfing and exploring through Data Science and machine learning models and devloping projects</b></p>
-</p><br>
-    
- 
-  <im src="https://github-readme-stats.vercel.app/api?username=YashwantSaiarjun&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="YashwantSaiarjun">
-</p>   
- 
-    
+## ABOUT:
+#### A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+ years. Hailed from a programming background in my school. Experience in developing projects from the tools and languages I learnt. Surfing and exploring through Data Science and machine learning models and devloping projects
+
+
  ## Languages and tools mastered :
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++"/>
