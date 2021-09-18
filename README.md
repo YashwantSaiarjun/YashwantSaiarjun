@@ -46,15 +46,11 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <li>C++</li>
 </ul>
 </pre>
+<hr>
 
 
-
-
-
-
-
- ## Languages and tools mastered :
-<p align="left"> 
+<h3 align="center" >Languages and tools mastered :</h3>
+<div align="center">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="py"/>
@@ -66,6 +62,8 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
     <img src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/master/assets/main-logo.svg" alt="jn"/>    
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma"/>
     <img src="https://www.appschopper.com/assets/service-images/UIUX-Design.svg" alt="ui/ux" width="40" height="40"/>
+</div>    
+<hr>
 
 </p>  
 
