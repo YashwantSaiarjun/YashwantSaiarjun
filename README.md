@@ -5,15 +5,10 @@
   <h3 align="center">Un programmeur curieux</h3>
 <p>
 <br>
-
 <p>
-  <h3>🙋‍♂️ ABOUT ME:<h3>
-  <h3>I'm Yashwant Saiarjun<h3>
-  <h3>Persuing B.E Computer Science at <a href="https://www.sathyabama.ac.in/">Sathyabama University</a>
-  <h3>Full Stack developer<h3>
-  <h3>Data Analasys and data science<h3> 
-  <h3>Data Science Aspirant<h3>  
-  <h3>Curious and crazy about Technologies<h3>  
+<h2>ABOUT :</h2>
+  <p><b>A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+ years.&nbsp Hailed from a programming background in my school.&nbsp Experience in developing projects from the tools and languages I learnt.</b></p>
+  <p><b> Surfing and exploring through Data Science and machine learning models and devloping projects</b></p>
 </p><br>
     
  
