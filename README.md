@@ -6,9 +6,12 @@
 <h3 align="center">Communities and Clubs:</h3>
 <pre>
 <div align="center">
-<h3>Student Co-ordinator @ <a href=" ">HackerEarth SIST</h3>
+<h3>Student Co-ordinator @ <a href=" ">HackerEarth</a> SIST</h3>
+<h3>Rajyapuruskar Scout - <a href=" ">Bharat Scouts and Guides</a></h3>
+<h3>Member at <a href=" ">Cureya</a> community</h3>
 </div>
 </pre>
+<hr>
 
 
 
