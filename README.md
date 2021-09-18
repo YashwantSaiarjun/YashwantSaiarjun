@@ -2,7 +2,7 @@
 <pre>
 <h3>A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+
 years. Hailed from a programming background in my school. Experience in developing projects from 
-the tools and languages I learnt.< Surfing and exploring through Data Science and machine learning
+the tools and languages I learnt. Surfing and exploring through Data Science and machine learning
 models and devloping projects.
 Self taught UI/UX designer with working experiences and a good knowledge of using Figma. Curious
 and enthusiastic to create and develop cool UI/UX stuffs.</h3>
@@ -67,11 +67,11 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 
 </p>  
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 <a href="https://www.linkedin.com/in/yashwant-saiarjun-s-v-478794197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yashwant Saiarjun" height="30" width="40" /></a>
 <a href="https://twitter.com/yashwantsai_918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_71202" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_thearjunsai_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thrarjunsai_" height="30" width="40" /></a>
-</p> 
+</div> 
 
 
