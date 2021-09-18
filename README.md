@@ -69,10 +69,10 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+<a href="mailto:yashwant091827@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmial" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/yashwant-saiarjun-s-v-478794197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yashwant Saiarjun" height="30" width="40" /></a>
 <a href="https://twitter.com/yashwantsai_918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_71202" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_thearjunsai_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thrarjunsai_" height="30" width="40" /></a>
- <a href="https://mail.google.com/mail/u/0/#inbox">sdd</a>
+ 
 </div> 
-
 
