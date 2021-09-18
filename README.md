@@ -1,6 +1,15 @@
 <h3 align="center">ABOUT:</h3>
 
-#### A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+ years. Hailed from a programming background in my school. Experience in developing projects from the tools and languages I learnt. Surfing and exploring through Data Science and machine learning models and devloping projects
+### A Passionate Full Stack Developer and an aspiring Data Scientist having coding experiences of 4+ years. Hailed from a programming background in my school. Experience in developing projects from the tools and languages I learnt. Surfing and exploring through Data Science and machine learning models and devloping projects.
+### Self taught UI/UX designer with working experiences and a good knowledge of using Figma. Curious and enthusiastic to create and develop cool UI/UX stuffs.
+<hr>
+<h3 align="center">Communities and Clubs:</h3>
+<pre>
+<div align="center">
+<h3>Student Co-ordinator @ <a href=" ">HackerEarth SIST</h3>
+</div>
+</pre>
+
 
 
  ## Languages and tools mastered :
