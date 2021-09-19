@@ -1,5 +1,10 @@
 ![image](https://user-images.githubusercontent.com/86396701/133918503-4ae3897e-4249-48d4-9e15-35ece2cb1726.png)
 
+<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img  align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<br>
+<hr>
 
 <h3 align="center">ABOUT:</h3>
 <pre>
