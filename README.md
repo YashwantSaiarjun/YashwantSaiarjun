@@ -52,34 +52,6 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <hr>
 
 
-<h3 align="center" >Languages and tools mastered :</h3>
-<div align="center">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/>
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="py"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/ alt="css">
-    <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-    <img src="https://image.flaticon.com/icons/png/512/2103/2103694.png" alt="R" width="40" height="40"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/master/assets/main-logo.svg" alt="jn"/>    
-    <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma"/>
-    <img src="https://www.appschopper.com/assets/service-images/UIUX-Design.svg" alt="ui/ux" width="40" height="40"/>
-</div>    
-<hr>
-
-</p>  
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<a href="mailto:yashwant091827@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmial" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/yashwant-saiarjun-s-v-478794197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yashwant Saiarjun" height="30" width="40" /></a>
-<a href="https://twitter.com/yashwantsai_918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_71202" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_thearjunsai_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thrarjunsai_" height="30" width="40" /></a>
- 
-</div>
-<hr>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashwantSaiarjun&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantSaiarjun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
