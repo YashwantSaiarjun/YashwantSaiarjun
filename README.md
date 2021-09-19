@@ -1,13 +1,5 @@
 ![image](https://user-images.githubusercontent.com/86396701/133918503-4ae3897e-4249-48d4-9e15-35ece2cb1726.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashwantSaiarjun&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantSaiarjun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-
 
 <h3 align="center">ABOUT:</h3>
 <pre>
@@ -86,6 +78,12 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <a href="https://www.instagram.com/_thearjunsai_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thrarjunsai_" height="30" width="40" /></a>
  
 </div>
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashwantSaiarjun&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantSaiarjun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <h2>Skills:</h2>
 <h3>Experienced with:</h3>
