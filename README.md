@@ -19,7 +19,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <h3 align="center">Communities and Clubs:</h3>
 <pre>
 <div align="center">
-<h3>Student Co-ordinator @ <a href=" ">HackerEarth</a> SIST</h3>
+<h3>Student Co-ordinator @ <a href=" ">HackerEarth</a> SIST</h3><a href=""><img alt="HR" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
 <h3>Rajyapuruskar Scout - <a href=" ">Bharat Scouts and Guides</a></h3>
 <h3>Member @ <a href=" ">Cureya</a> community</h3>
 </div>
@@ -80,6 +80,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)"/>
  <img alt="scikit" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+ <img alt="eclpise" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
  
 
 
