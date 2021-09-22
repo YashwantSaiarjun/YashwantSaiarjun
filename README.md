@@ -31,7 +31,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <div>
 <pre>
 <ul>
-<li><a href=" ">Income Classifier System</a></li>
+<li><a href="https://github.com/YashwantSaiarjun/Income-Classifier-System">Income Classifier System</a></li>
 <li><a href=" ">Digital Hotel Menu using Html and CSS</a></li>
 <li><a href=" ">Diabetes prediction system</a></li>
 <li><a href=" ">ATM system</a></li>
