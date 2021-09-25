@@ -19,9 +19,9 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <h3 align="center">Communities and Clubs:</h3>
 <pre>
 <div align="center">
-<h3>Student Co-ordinator @ <a href=" ">HackerEarth</a> SIST</h3><a href=""><img alt="HR" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
-<h3>Rajyapuruskar Scout - <a href=" ">Bharat Scouts and Guides</a></h3>
-<h3>Member @ <a href=" ">Cureya</a> community</h3>
+<h3>Student Co-ordinator @ <a href="https://www.hackerearth.com/">HackerEarth</a> SIST</h3><a href=""><img alt="HR" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+<h3>Rajyapuruskar Scout - <a href="http://www.bsgindia.org/ ">Bharat Scouts and Guides</a></h3>
+<h3>Member @ <a href="https://www.cureya.in/">Cureya</a> community</h3>
 </div>
 </pre>
 <hr>
