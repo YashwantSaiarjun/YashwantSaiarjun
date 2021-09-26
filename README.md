@@ -35,7 +35,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <li><a href="https://github.com/YashwantSaiarjun/Digitel-Hotel-Menu">Digital Hotel Menu using Html and CSS</a></li>
 <li><a href="https://github.com/YashwantSaiarjun/Diabetes-prediction-System">Diabetes prediction system</a></li>
 <li><a href="https://github.com/YashwantSaiarjun/ATM-System">ATM system</a></li>
-<li><a href=" ">UI/UX for mental health chatbot</a></li>
+<li><a href="https://github.com/YashwantSaiarjun?tab=projects">UI/UX for mental health chatbot</a></li>
 <li><a href=" ">User Login Page</a></li>
 <li><a href=" ">Analysis of growth of Indian startups</a></li>
 </ul>
