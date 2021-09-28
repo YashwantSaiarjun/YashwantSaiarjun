@@ -58,7 +58,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashwantSaiarjun&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantSSaiarjun&layout=compact)](https://github.com/YashwantSaiarjun?tab=repositories)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashwantSaiarjun&layout=compact)](https://github.com/YashwantSaiarjun?tab=repositories)
 
 
 
