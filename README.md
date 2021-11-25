@@ -72,6 +72,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img alt="UI/UX" src="https://img.shields.io/badge/UI / UX-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
  <img alt="conda" src="https://img.shields.io/badge/conda-342B029.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
@@ -80,6 +81,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img alt="MS_word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
  <img alt="Pbi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+<img alt="UI/UX" src="https://img.shields.io/badge/UI / UX-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
  
  <h3>Familiar with:</h3>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
