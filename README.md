@@ -1,4 +1,4 @@
-<marqee>hi<marquee>
+
 ![image](https://user-images.githubusercontent.com/86396701/133918503-4ae3897e-4249-48d4-9e15-35ece2cb1726.png)
 
 <a href="mailto:yashwant091827@gmail.com "><img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
