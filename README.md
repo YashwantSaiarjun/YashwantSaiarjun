@@ -35,6 +35,7 @@ and enthusiastic to create and develop cool UI/UX stuffs.</h3>
 <li><a href="https://github.com/YashwantSaiarjun/Pre-owned-car-price-prediction">Pre-Owned car price prediction system</a></li>
 <li><a href="https://github.com/YashwantSaiarjun/Income-Classifier-System">Income Classifier System</a></li>
 <li><a href="https://github.com/YashwantSaiarjun/Digitel-Hotel-Menu">Digital Hotel Menu using Html and CSS</a></li>
+<li><a href="">Movie Collection Prediction System</a></li>
 <li><a href="https://github.com/YashwantSaiarjun/Diabetes-prediction-System">Diabetes prediction system</a></li>
 <li><a href="https://github.com/YashwantSaiarjun/ATM-System">ATM system</a></li>
 <li><a href="https://github.com/YashwantSaiarjun?tab=projects">UI/UX for mental health chatbot</a></li>
