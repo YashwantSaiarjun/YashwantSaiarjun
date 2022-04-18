@@ -1,6 +1,8 @@
 
 ![image](https://user-images.githubusercontent.com/86396701/133918503-4ae3897e-4249-48d4-9e15-35ece2cb1726.png)
 
+<a href="mailto:yashwant091827@gmail.com "><img align="left" alt="gmail" src="https://img.shields.io/badge/My Website%20-470137?style=for-the-badge&logo=be%20XD&logoColor=#FF61F6"/></a>
+
 <a href="mailto:yashwant091827@gmail.com "><img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yashwant-saiarjun-s-v-478794197/"><img  align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/yan_sa_jun/"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
