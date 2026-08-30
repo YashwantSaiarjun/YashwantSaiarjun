@@ -42,10 +42,4 @@ Jest • SonarQube
 
 ## 🧭 Engineering Journey
 
-Software Engineering
-        ↓
-Enterprise Applications
-        ↓
-Platform Engineering
-        +
-AI / GenAI / LLM Engineering
+Software Engineering -> Enterprise Applications -> Platform Engineering -> AI / GenAI / LLM Engineering
