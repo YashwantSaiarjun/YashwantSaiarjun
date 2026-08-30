@@ -40,4 +40,12 @@ PostgreSQL • Pandas • NumPy
 ### Testing & Quality
 Jest • SonarQube
 
+## 🧭 Engineering Journey
 
+Software Engineering
+        ↓
+Enterprise Applications
+        ↓
+Platform Engineering
+        +
+AI / GenAI / LLM Engineering
